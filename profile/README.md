@@ -1,7 +1,4 @@
-<h1>
-  <img width="60" height="60" alt="mandamong-square" src="https://github.com/user-attachments/assets/0fe0c285-33ca-44e7-beed-e1ed3fcd40d8" valign="middle" /> 
-  Mandamong (만다몽)
-</h1>
+# Mandamong (만다몽)
 
 > **AI 를 이용해 만다라트 표를 쉽게 만들고, 목표에 빠르게 가까워지세요.**
 
