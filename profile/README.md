@@ -1,4 +1,4 @@
-# Mandamong (만다몽)
+# mandamong (만다몽)
 
 > **AI 를 이용해 만다라트 표를 쉽게 만들고, 목표에 빠르게 가까워지세요.**
 
@@ -22,22 +22,30 @@
 
 ## ✨ 주요 기능
 
-- **만다라트 관리**: 주제, 목표, 행동을 자유롭게 생성, 수정, 삭제합니다.  
-  <img width="700" alt="mandamong-manage" src="https://github.com/user-attachments/assets/1c0004b1-788a-4fb1-9aeb-95183b66b371" />
+- **만다라트 관리**: 주제, 목표, 행동을 자유롭게 생성, 수정, 삭제합니다.
+  
+  <img width="500" alt="mandalart-manage" src="https://github.com/user-attachments/assets/9fdfe6ac-6157-4e2b-aba4-6c675547b62f" />
 
-- **대시보드**: 내가 만든 모든 만다라트를 한눈에 모아봅니다.  
-  <img width="700" alt="mandamong-dashboard" src="https://github.com/user-attachments/assets/47d09e8d-300d-47db-8931-d1df13522017" />
+- **대시보드**: 내가 만든 모든 만다라트를 한눈에 모아봅니다.
+  
+  <img width="500" alt="mandamong-dashboard" src="https://github.com/user-attachments/assets/431b5b33-e866-42c5-a580-debad99e3a6d" />
 
 - **🤖 AI 초안 생성**:
-  - **주제 입력 시**: 목표 4개와 행동 20개 초안을 한 번에 생성합니다.  
-    <img width="700" alt="mandamong-ai-subject" src="https://github.com/user-attachments/assets/bae94684-6375-44b7-a101-e071bf7eb0d7" />
-    <img width="700" alt="mandamong-ai-subject-detail" src="https://github.com/user-attachments/assets/1f27eed0-1768-4ba8-aa18-3afecebee1f1" />
+  - **주제 입력 시**: 목표 4개와 행동 20개 초안을 한 번에 생성합니다.
+    
+    <img width="500" alt="mandamong-ai-subject" src="https://github.com/user-attachments/assets/dba94eb2-33f3-4130-bfc7-2243963ae0b7" />
+    <img width="500" alt="mandamong-ai-subject" src="https://github.com/user-attachments/assets/920a21d4-3344-4ab2-a4a1-71799af7e1a7" />
 
-  - **목표 입력 시**: 해당 목표를 이루기 위한 행동 5개 초안을 생성합니다.  
-    <img width="700" alt="mandamong-ai-objective" src="https://github.com/user-attachments/assets/8c517417-2d1a-42b1-9cd8-c8a99b7050ea" />
+  - **목표 입력 시**: 해당 목표를 이루기 위한 행동 5개 초안을 생성합니다.
+    
+    <img width="500" alt="mandamong-ai-objective" src="https://github.com/user-attachments/assets/a075149d-8433-4f9a-8d26-0efc48cfaab8" />
+    <img width="500" alt="mandamong-ai-objective" src="https://github.com/user-attachments/assets/4bc84873-e789-43ee-8359-de345945ef5d" />
+    <img width="500" alt="mandamong-ai-objective" src="https://github.com/user-attachments/assets/7bc37e27-8f77-47c0-86d1-f655220af391" />
 
-- **계정 설정**: 이메일 가입, 닉네임 및 비밀번호 변경 기능을 제공합니다.  
-  <img width="500" alt="mandamong-account" src="https://github.com/user-attachments/assets/86d60bec-f4a5-48db-bdb2-6ae4da2eb525" />
+- **계정 설정**: 이메일 가입, 닉네임 및 비밀번호 변경 기능을 제공합니다.
+  
+  <img width="500" alt="mandamong-account" src="https://github.com/user-attachments/assets/34f188ee-4b86-430d-883c-52734bb04864" />
+  
 
 ## 🚀 시작하기
 
